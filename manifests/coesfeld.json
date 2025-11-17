@@ -17,6 +17,9 @@
     { "src": "media/12.mp4", "type": "video", "duration": 5 },
     { "src": "media/13.mp4", "type": "video", "duration": 5 },
     { "src": "media/14.mp4", "type": "video", "duration": 5 },
+    { "src": "media/19.mp4", "type": "video", "duration": 5 },
+    { "src": "media/20.mp4", "type": "video", "duration": 5 },
+    { "src": "media/21.mp4", "type": "video", "duration": 5 },
     { "src": "media/16.mp4", "type": "video", "duration": 5 }
   ]
 }
